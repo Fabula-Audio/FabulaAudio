@@ -1,0 +1,178 @@
+[
+  {
+    "name": "config",
+    "repository": "https://github.com/arthenica/gnu-config",
+    "ref": "v20210814",
+    "url": "https://codeload.github.com/arthenica/gnu-config/tar.gz/refs/tags/v20210814",
+    "status": "downloaded",
+    "file": "config-v20210814.tar.gz",
+    "bytes": 77201,
+    "sha256": "e7b34eb510ebb76790b2c8e4bfec75393fc5ba121b90f9011a196591f8973228"
+  },
+  {
+    "name": "cpu-features",
+    "repository": "https://github.com/arthenica/cpu_features",
+    "ref": "v0.8.0",
+    "url": "https://codeload.github.com/arthenica/cpu_features/tar.gz/refs/tags/v0.8.0",
+    "status": "downloaded",
+    "file": "cpu-features-v0.8.0.tar.gz",
+    "bytes": 102371,
+    "sha256": "7021729f2db97aa34f218d12727314f23e8b11eaa2d5a907e8426bcb41d7eaac"
+  },
+  {
+    "name": "ffmpeg",
+    "repository": "https://github.com/arthenica/FFmpeg",
+    "ref": "n8.1.2",
+    "url": "https://codeload.github.com/arthenica/FFmpeg/tar.gz/refs/tags/n8.1.2",
+    "status": "downloaded",
+    "file": "ffmpeg-n8.1.2.tar.gz",
+    "bytes": 16872873,
+    "sha256": "9fd092511605bbebafe095ea6d38d9e40f34d12f7386e1258372df8be0576eb7"
+  },
+  {
+    "name": "lame",
+    "repository": "https://github.com/arthenica/lame",
+    "ref": "RELEASE__3_100",
+    "url": "https://codeload.github.com/arthenica/lame/tar.gz/refs/tags/RELEASE__3_100",
+    "status": "downloaded",
+    "file": "lame-RELEASE__3_100.tar.gz",
+    "bytes": 1535396,
+    "sha256": "d390e1754c4e5e702f7ee5a77e849a3c963758cfe5dacc1c64350c68196a29dd"
+  },
+  {
+    "name": "libiconv",
+    "repository": "https://github.com/arthenica/libiconv",
+    "ref": "v1.17",
+    "url": "https://codeload.github.com/arthenica/libiconv/tar.gz/refs/tags/v1.17",
+    "status": "downloaded",
+    "file": "libiconv-v1.17.tar.gz",
+    "bytes": 4385255,
+    "sha256": "09d53d6b2b333bfafcce33261feca41d6d0bbc8524ca6606aef171cf2eb56f82"
+  },
+  {
+    "name": "libilbc",
+    "repository": "https://github.com/arthenica/libilbc",
+    "ref": "v3.0.4",
+    "url": "https://codeload.github.com/arthenica/libilbc/tar.gz/refs/tags/v3.0.4",
+    "status": "downloaded",
+    "file": "libilbc-v3.0.4.tar.gz",
+    "bytes": 232253,
+    "sha256": "c5ec9e3ec53a0a913f81504e202c7bfefbe9c070b7f5599c5e13a6c75d6af913"
+  },
+  {
+    "name": "libogg",
+    "repository": "https://github.com/arthenica/ogg",
+    "ref": "v1.3.5",
+    "url": "https://codeload.github.com/arthenica/ogg/tar.gz/refs/tags/v1.3.5",
+    "status": "downloaded",
+    "file": "libogg-v1.3.5.tar.gz",
+    "bytes": 251765,
+    "sha256": "f6f1b04cfa4e98b70ffe775d5e302d9c6b98541f05159af6de2d6617817ed7d6"
+  },
+  {
+    "name": "libsndfile",
+    "repository": "https://github.com/arthenica/libsndfile",
+    "ref": "1.2.0",
+    "url": "https://codeload.github.com/arthenica/libsndfile/tar.gz/refs/tags/1.2.0",
+    "status": "downloaded",
+    "file": "libsndfile-1.2.0.tar.gz",
+    "bytes": 684253,
+    "sha256": "62dc4e2bcd45f6f0e89cbc3522cc90eb174dca0eef0a0d19ead289833b390cd7"
+  },
+  {
+    "name": "libvorbis",
+    "repository": "https://github.com/arthenica/vorbis",
+    "ref": "v1.3.7",
+    "url": "https://codeload.github.com/arthenica/vorbis/tar.gz/refs/tags/v1.3.7",
+    "status": "downloaded",
+    "file": "libvorbis-v1.3.7.tar.gz",
+    "bytes": 1234573,
+    "sha256": "270c76933d0934e42c5ee0a54a36280e2d87af1de3cc3e584806357e237afd13"
+  },
+  {
+    "name": "opencore-amr",
+    "repository": "https://github.com/arthenica/opencore-amr",
+    "ref": "v0.1.6",
+    "url": "https://codeload.github.com/arthenica/opencore-amr/tar.gz/refs/tags/v0.1.6",
+    "status": "downloaded",
+    "file": "opencore-amr-v0.1.6.tar.gz",
+    "bytes": 530282,
+    "sha256": "1f2601c6cd9d47d3ddb2911db832bdc6f5e36c53f5e78937cdc5241ae02cb426"
+  },
+  {
+    "name": "opus",
+    "repository": "https://github.com/arthenica/opus",
+    "ref": "v1.4",
+    "url": "https://codeload.github.com/arthenica/opus/tar.gz/refs/tags/v1.4",
+    "status": "downloaded",
+    "file": "opus-v1.4.tar.gz",
+    "bytes": 851780,
+    "sha256": "659e6b223e42a51b0a898632b9a5f406ccd5c2e00aa526ddd1264789774b94e5"
+  },
+  {
+    "name": "shine",
+    "repository": "https://github.com/arthenica/shine",
+    "ref": "3.1.1",
+    "url": "https://codeload.github.com/arthenica/shine/tar.gz/refs/tags/3.1.1",
+    "status": "downloaded",
+    "file": "shine-3.1.1.tar.gz",
+    "bytes": 940443,
+    "sha256": "565b87867d6f8e6616a236445d194e36f4daa9b4e7af823fcf5010af7610c49e"
+  },
+  {
+    "name": "soxr",
+    "repository": "https://github.com/arthenica/soxr",
+    "ref": "0.1.3",
+    "url": "https://codeload.github.com/arthenica/soxr/tar.gz/refs/tags/0.1.3",
+    "status": "downloaded",
+    "file": "soxr-0.1.3.tar.gz",
+    "bytes": 144454,
+    "sha256": "db6ca1b1e8405c6ef92f8294fc123d910abf0a114003b3f0f13fa57a95fd62d0"
+  },
+  {
+    "name": "speex",
+    "repository": "https://github.com/arthenica/speex",
+    "ref": "Speex-1.2.1",
+    "url": "https://codeload.github.com/arthenica/speex/tar.gz/refs/tags/Speex-1.2.1",
+    "status": "downloaded",
+    "file": "speex-Speex-1.2.1.tar.gz",
+    "bytes": 1044975,
+    "sha256": "beaf2642e81a822eaade4d9ebf92e1678f301abfc74a29159c4e721ee70fdce0"
+  },
+  {
+    "name": "twolame",
+    "repository": "https://github.com/arthenica/twolame",
+    "ref": "0.4.0",
+    "url": "https://codeload.github.com/arthenica/twolame/tar.gz/refs/tags/0.4.0",
+    "status": "downloaded",
+    "file": "twolame-0.4.0.tar.gz",
+    "bytes": 432780,
+    "sha256": "9f3f03bc9e1038d900f86002c7dce4b49109b3a61544800fc62d71dc51829f05"
+  },
+  {
+    "name": "vo-amrwbenc",
+    "repository": "https://github.com/arthenica/vo-amrwbenc",
+    "ref": "v0.1.3",
+    "url": "https://codeload.github.com/arthenica/vo-amrwbenc/tar.gz/refs/tags/v0.1.3",
+    "status": "downloaded",
+    "file": "vo-amrwbenc-v0.1.3.tar.gz",
+    "bytes": 300376,
+    "sha256": "85c79997ba7ddb9c95b5ddbe9ea032e27595390f3cbd686ed46a69e485cc053c"
+  },
+  {
+    "name": "abseil",
+    "repository": "https://github.com/abseil/abseil-cpp",
+    "ref": "1bae23e32ba1f1af7c7d1488a69a351ec96dc98d",
+    "file": "abseil-1bae23e32ba1f1af7c7d1488a69a351ec96dc98d.tar.gz",
+    "status": "downloaded",
+    "sha256": "6bb5efd152cbd3ac6d02eaa7a40ca5ff7a7fa4ef3b9e034381ac782c2a67b3da"
+  },
+  {
+    "name": "gnulib",
+    "repository": "https://github.com/arthenica/gnulib",
+    "ref": "485d983b7795548fb32b12fbe8370d40789e88c4",
+    "file": "gnulib-485d983b7795548fb32b12fbe8370d40789e88c4.tar.gz",
+    "status": "downloaded",
+    "sha256": "161290586d00a752fed2d8be64713b1b3ecfe8427f9b0e6f1d68b8fd9eee9e1f"
+  }
+]
