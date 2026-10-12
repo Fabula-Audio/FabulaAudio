@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/fabula_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="12dp"
+        android:paddingEnd="8dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Fabula Audio"
+            android:textColor="@color/fabula_text"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/helpButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:backgroundTint="@color/fabula_header_button"
+            android:contentDescription="Инструкция"
+            android:minWidth="48dp"
+            android:text="?"
+            android:textColor="@color/fabula_text"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/menuButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:backgroundTint="@color/fabula_header_button"
+            android:contentDescription="Меню"
+            android:minWidth="48dp"
+            android:text="⋮"
+            android:textColor="@color/fabula_text"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Подготовка • последовательное ускорение • прослушивание • сохранение FLAC"
+                android:textColor="@color/fabula_muted" />
+
+            <Button
+                android:id="@+id/openButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="ВЫБРАТЬ ТРЕК" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+
+            <TextView
+                android:id="@+id/fileName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Трек не выбран"
+                android:textColor="@color/fabula_text" />
+
+            <TextView
+                android:id="@+id/resultsFolderLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Папка сохранения не выбрана"
+                android:textColor="@color/fabula_muted" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="1. ПОДГОТОВКА ОРИГИНАЛА"
+                android:textColor="@color/fabula_section_heading"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/clickEnabled"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Убрать щелчки"
+                android:textColor="@color/fabula_text" />
+
+            <CheckBox
+                android:id="@+id/noiseEnabled"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Убрать шумы"
+                android:textColor="@color/fabula_text" />
+
+            <TextView
+                android:id="@+id/noiseNrLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Уровень подавления, дБ: 6"
+                android:textColor="@color/fabula_text" 
+                android:visibility="gone" />
+
+            <SeekBar
+                android:id="@+id/noiseNrSeek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="24"
+                android:progress="6" 
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/noiseNfLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Пол шума, дБ: -30"
+                android:textColor="@color/fabula_text" 
+                android:visibility="gone" />
+
+            <SeekBar
+                android:id="@+id/noiseNfSeek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="50"
+                android:progress="30" 
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Изменения щелчков и шумоподавления применяются во время прослушивания с сохранением позиции."
+                android:textColor="@color/fabula_muted"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="2. РЕЖИМ ОБРАБОТКИ"
+                android:textColor="@color/fabula_section_heading"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/speed6Button"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_marginEnd="4dp"
+                    android:layout_weight="1"
+                    android:text="×6" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+
+                <Button
+                    android:id="@+id/speed144Button"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginEnd="2dp"
+                    android:layout_weight="1"
+                    android:text="×144" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text" />
+
+                <Button
+                    android:id="@+id/speed432Button"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_marginStart="4dp"
+                    android:layout_weight="1"
+                    android:text="×432" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/modesUnavailableNote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="×144 и ×432: основной голос сохраняется, ускоренные дорожки добавляются тихим фоном."
+                android:textColor="@color/fabula_muted" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="3. УПРАВЛЕНИЕ"
+                android:textColor="@color/fabula_section_heading"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/playButton"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="4dp"
+                    android:layout_weight="1"
+                    android:enabled="false"
+                    android:text="Плей" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+
+                <Button
+                    android:id="@+id/stopButton"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="4dp"
+                    android:layout_weight="1"
+                    android:enabled="false"
+                    android:text="СТОП" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/resultButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:enabled="false"
+                    android:text="ПРОСЛУШАТЬ РЕЗУЛЬТАТ" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="64dp"
+                android:padding="12dp"
+                android:text="Выберите трек."
+                android:textColor="@color/fabula_muted" />
+
+            <TextView
+                android:id="@+id/volumeLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Громкость прослушивания результата перед сохранением: 100%"
+                android:textColor="@color/fabula_text" />
+
+            <SeekBar
+                android:id="@+id/volumeSeek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="100"
+                android:progress="100" />
+
+            <Button
+                android:id="@+id/saveButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:enabled="false"
+                android:text="СОХРАНИТЬ РЕЗУЛЬТАТ" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="12dp">
+
+        <Button
+            android:id="@+id/homeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Выход на главную" 
+                    android:backgroundTint="@color/fabula_button"
+                    android:textColor="@color/fabula_button_text"/>
+
+        <Button
+            android:id="@+id/exitButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:backgroundTint="@color/fabula_button"
+            android:text="Выход из приложения"
+            android:textColor="@color/fabula_button_text" />
+    </LinearLayout>
+</LinearLayout>
