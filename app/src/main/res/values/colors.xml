@@ -1,0 +1,23 @@
+<resources>
+    <color name="fabula_background">#FFFFFF</color>
+    <color name="fabula_card">#AEC49A</color>
+    <color name="fabula_header_button">#D8EDD0</color>
+    <color name="fabula_bg">#FFFFFF</color>
+    <color name="fabula_panel">#AEC49A</color>
+    <color name="fabula_blue">#5B7553</color>
+    <color name="fabula_button">#5B7553</color>
+    <color name="fabula_selected">#AEC49A</color>
+    <color name="fabula_secondary">#8EB897</color>
+    <color name="fabula_text">#040403</color>
+    <color name="fabula_muted">#5B7553</color>
+    <color name="fabula_gold">#5B7553</color>
+    <color name="fabula_gold_text">#C3E8BD</color>
+    <color name="fabula_yellow">#5B7553</color>
+    <color name="fabula_button_text">#C3E8BD</color>
+    <color name="fabula_gold_selected">#9DDBAD</color>
+    <color name="fabula_mode_border">#5B7553</color>
+    <color name="fabula_section_heading">#040403</color>
+    <color name="fabula_warning_text">#5B7553</color>
+    <color name="fabula_warning_bg">#AEC49A</color>
+    <color name="fabula_status_unrecorded">#808080</color>
+</resources>

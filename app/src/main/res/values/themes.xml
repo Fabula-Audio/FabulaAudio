@@ -1,0 +1,14 @@
+<resources>
+<style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowBackground">@color/fabula_background</item>
+    <item name="android:windowLightStatusBar">true</item>
+    <item name="android:statusBarColor">@color/fabula_background</item>
+    <item name="android:navigationBarColor">@color/fabula_background</item>
+    <item name="android:colorAccent">@color/fabula_blue</item>
+    <item name="colorPrimary">@color/fabula_blue</item>
+    <item name="colorSecondary">@color/fabula_card</item>
+    <item name="colorControlActivated">@color/fabula_blue</item>
+    <item name="colorControlHighlight">@color/fabula_card</item>
+</style>
+</resources>
