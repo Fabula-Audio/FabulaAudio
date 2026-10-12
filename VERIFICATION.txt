@@ -1,0 +1,16 @@
+Fabula Audio — verification, 2026-10-12
+Version: 4.33 / versionCode 34 (unchanged from supplied source).
+Gradle 8.7, JDK 21, Android SDK 35, NDK 26.3.11579264, CMake 3.22.1.
+assembleDebug: PASS
+assembleRelease (R8 enabled): PASS; release APK unsigned.
+Unit tests: 10 passed, 0 failures, 0 errors.
+Host audio_regression.py: PASS (8 reported checks).
+Native source archives: 19, structural checks PASS.
+Runtime source coverage: 62 / 62 resolved artifacts.
+Dependency materials checksums: PASS.
+UI was not tested on a physical Android device.
+FFmpeg native libraries were not independently rebuilt; see SOURCE_STATUS.md.
+debug/app-debug.apk: license assets checked; sha256=bf38b3ac89c68e0882050faf50e28fb60f6dd83be5656195e738895bb3bca837
+release/app-release-unsigned.apk: license assets checked; sha256=c656049fec579d56e6ac43d7c03936ce3b28e488ea1b5f160feb26067b8b333d
+APKs are verification products; they are excluded from the source archive.
+Archive excludes signing keys, local.properties, build outputs and caches.

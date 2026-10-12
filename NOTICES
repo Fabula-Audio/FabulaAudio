@@ -1,0 +1,39 @@
+Fabula Audio — third-party notices
+
+Original application code: GPL-3.0-only. See LICENSE.
+Third-party code retains its original licenses and copyright notices.
+
+SBSMS: Clayton Otey and the original contributors.
+The source copy from Audacity 3.4.2 and its original LICENSE, COPYING,
+AUTHORS and per-file notices are preserved under app/src/main/cpp/third_party/libsbsms.
+
+FFmpegKit Audio: dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7.
+Copyright (c) 2018-2021 Taner Sener (original wrapper source headers).
+Original project: Arthenica. Maintained continuation: ffmpegkit-maintained / Jokobee.
+LGPL version 3 or later for the Java wrapper; retain the exact per-file notices.
+FFmpeg and external libraries keep their individual licenses.
+See licenses/ffmpegkit-audio-8.1.7 and licenses/native.
+
+smart-exception-java and smart-exception-common 0.2.1:
+Copyright (c) Taner Sener, with the exact years and full BSD 3-Clause
+terms preserved in licenses/smart-exception-*-source-notices.txt.
+Publisher: Arthenica. The common library is a transitive dependency.
+
+Kotlin: JetBrains s.r.o. and respective authors and contributors.
+AndroidX: The Android Open Source Project and respective contributors.
+Material Components: the Material Components for Android authors and contributors.
+Apache License 2.0; original notices are preserved under licenses/dependency-notices.
+See the resolved runtime dependency report for exact included versions.
+
+Gradle Wrapper 8.7: Gradle contributors, Apache License 2.0.
+See licenses/Gradle-APACHE-2.0.txt and licenses/Gradle-NOTICE.txt.
+
+Full collected license texts and notices are under licenses/ and are also
+packaged as assets/licenses/third-party for access from the app's Licenses button.
+Java source distributions are unpacked under third_party_sources/.
+The exact selected native release source archives, including upstream build
+scripts and patches, are under third_party_sources/native/.
+Download origins and SHA-256 checksums are in DEPENDENCY_MATERIALS.json and
+third_party_sources/NATIVE_SOURCES.json.
+
+Consult SOURCE_STATUS.md for verification scope and remaining limitations.

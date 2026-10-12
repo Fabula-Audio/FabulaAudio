@@ -1,0 +1,867 @@
+[
+  {
+    "path": "gradlew",
+    "sha256": "bf2ca3f9d7c42b831380b47ab9e7594ddc33054b3e09253a0c4862353d5d604b",
+    "origin": "https://github.com/gradle/gradle/tree/v8.7.0"
+  },
+  {
+    "path": "gradlew.bat",
+    "sha256": "e54283c0f86074fa408c1161d08ef8f63992323a8c940c66f3626e8abc5bd8cc",
+    "origin": "https://github.com/gradle/gradle/tree/v8.7.0"
+  },
+  {
+    "path": "gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "cb0da6751c2b753a16ac168bb354870ebb1e162e9083f116729cec9c781156b8",
+    "origin": "Gradle 8.7 official distribution"
+  },
+  {
+    "path": "licenses/Gradle-APACHE-2.0.txt",
+    "sha256": "9536d88ea948603d18e232a13f5958d67807cd80828036b082bff171d2cf0703",
+    "origin": "Gradle 8.7 distribution LICENSE"
+  },
+  {
+    "path": "licenses/Gradle-NOTICE.txt",
+    "sha256": "c2de5fd9adc7ccc4e1382a0e1f38ec6e14f8ca6e28d3c20289fe80353b019aa1",
+    "origin": "Gradle 8.7 distribution NOTICE"
+  },
+  {
+    "path": "licenses/GPL-3.0.txt",
+    "sha256": "8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b",
+    "origin": "Existing project libsbsms/LICENSE"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/AsyncFFmpegExecuteTask.java",
+    "sha256": "4962859a44d2cb85e3d27f0d54d01e0c6c925b8a8504fdbaaf2ce33495e797a6",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/NativeLoader.java",
+    "sha256": "17a4268ef0b5385008c4260ec0153b283bd768c3d25524e700ea9ab5b9d0c6e0",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Level.java",
+    "sha256": "f3fe97a2a390c158478bec7db8d1403f0656fa3b33ab0b0569e4d0d99a35291c",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Packages.java",
+    "sha256": "d49baf6197c9fb9e5b6fbc87295139562caef56cec400bcb4d879b53c6eaa56c",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/LibreTranslateProvider.java",
+    "sha256": "4be44a8472d2acdffbd956ce0377a3f2aa14ab5345e3f122a08bca40ca5612f9",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFmpegKit.java",
+    "sha256": "b773d719667b737af4c62e9f84d7719c62a67f061bf651b2fbfc3846de875dcc",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/TranslationProvider.java",
+    "sha256": "88cce14b940603a914c4c36f4de83299fc93e07aafbdf0026116370f75e16bf3",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Chapter.java",
+    "sha256": "55f07f35db1dabf253c29c5352b68be4cb2d953ff84855823a9617d3c39386ec",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Abi.java",
+    "sha256": "6165ad5848d9e943a3233d2e47511c0194007676fdbdf3df54070bef509f0ec0",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/AbiDetect.java",
+    "sha256": "34ed7994de1c30d4e2427845e47247fac1256db72cf1a4a44659520f0ec0fb01",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFmpegKitConfig.java",
+    "sha256": "7dc448a1d1e10c8eeecad5b2fc0220d4ff5ab992cf1811753bc171d43411fc99",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/AsyncFFprobeExecuteTask.java",
+    "sha256": "b063e8d07148da52f1dd919f970691d91a007d29097aadfd0930cc132a5e2bd7",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFprobeSessionCompleteCallback.java",
+    "sha256": "62933875163d84ba238c5ca0f910157afb24c215a4f384df58441a843abca6cd",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/GoogleTranslateProvider.java",
+    "sha256": "b5f5810d621f646128c3dec951e81f4145e99696accaa2af743bc770fdc11536",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/MediaInformationJsonParser.java",
+    "sha256": "475bba6046b1d509b3a9ec55c5f69236a2b5fdb430abe6c7230998003490b5d5",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/DeepLTranslationProvider.java",
+    "sha256": "660fa7f2aeb0b72f84bc7ebb8bb1553f919bca927842750d82c9fff6db5fc09b",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/LogRedirectionStrategy.java",
+    "sha256": "1bcea40da3d83bcf91d2fc1ff3681d195eee0e9d1a70eb58cff641b1fc8c036d",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFmpegSessionCompleteCallback.java",
+    "sha256": "52b5049c68129dccc2e85cadccc0b1c095ffc7f5377260557d4e4edb520b3015",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/SessionState.java",
+    "sha256": "43970dc79358ee230c16d4cd9d094ffabe8e29e71cda2de845c2eacd227546a1",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Signal.java",
+    "sha256": "f9364f92a4ab5dcd212e968adb16f090621126c600fae3fea6e4cdac8df3247f",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/ReturnCode.java",
+    "sha256": "51d2d80bb7f78dfe9f2496c593a0b0c2e0e82f4a5d349e1e94f67c2415f51ed7",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/AsyncGetMediaInformationTask.java",
+    "sha256": "8eb2d44dc712099b6db331bceb850c56486c631cfb91c658282860e6f88ef8c3",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFprobeKit.java",
+    "sha256": "298ed2bf37eb9c6d6e8fc3731ae7fbd0930b473037d97a6478db3df7adf308c2",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/CameraSupport.java",
+    "sha256": "b1b8dee60174fdbfca6362ffeb4a4efb3a359470d66465d0141409de8c6a2a3b",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/LogCallback.java",
+    "sha256": "7b4d3e1e179838d9f64feb04af7acfeb252ec21c28f735b15c45ec4733b8492e",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/AbstractSession.java",
+    "sha256": "ff1f09e57969aba15f64ba4a56442d4bb1c0cd9a29ae4a64f97c58601f358066",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/MediaInformation.java",
+    "sha256": "f6b4d8b223df0e49196be7e43cbbfd0c04df42d70a3dec81756f656144857aa7",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/MediaInformationSessionCompleteCallback.java",
+    "sha256": "aa54d01db914f31bbb0d2e09a6b451f12f4f258c8f2d71e1d8b91d3330851d47",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Session.java",
+    "sha256": "94a71458bbb364e67b2ab39cd31f665e254f4786a2de1afae2e1e16c1ef59d6b",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFmpegSession.java",
+    "sha256": "b9ab474f0d3fc15d21f79d9c6afca1630621a69b33bba12d0be7b7b9ace91cc3",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/FFprobeSession.java",
+    "sha256": "92ffb06f8580ed60527e7330c329a27b9bc9b36a29e7e185e502343d71a4245e",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/StatisticsCallback.java",
+    "sha256": "a0cb71f4b4e65e0b976a86544bdb00616a317c76b4ae64308fe559f8e60c44fa",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/WhisperKit.java",
+    "sha256": "8f1a7bbf1511569c72315f5863b22683686736ea1de9f203841242fa33a3e51d",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Log.java",
+    "sha256": "9cbea773d04db0847f41b570caa8bc3423ef002ec92edcd472b75ed408e2459b",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/Statistics.java",
+    "sha256": "36511f4c85aa8ef79a6c6776ac536d701761116e2df2e9db0e72ea7ccb62e1fa",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/StreamInformation.java",
+    "sha256": "2ce99963b3ad7777216931fdbd7b4c0cb6bfb221cd93fe0827886a213badb38c",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "third_party_sources/ffmpeg-kit-audio-8.1.7/com/arthenica/ffmpegkit/MediaInformationSession.java",
+    "sha256": "afe10864598eb7014f00f8feb732e40a138adeabe44f6d5424277a18b02e0c9e",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources"
+  },
+  {
+    "path": "licenses/ffmpeg-kit-audio-source-notices.txt",
+    "sha256": "85343eec1347bf626d63251aee2644954faf4d096085389fca3f48cf29798058",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7:sources headers"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license.txt",
+    "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_cpu_features.txt",
+    "sha256": "af272c1b4dd08dd61d43e001d3134119d03ca7a2b057a64f7355fdf27fbea3dd",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_cpu_features.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_lame.txt",
+    "sha256": "bfe4a52dc4645385f356a8e83cc54216a293e3b6f1cb4f79f5fc0277abf937fd",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_lame.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_libiconv.txt",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_libiconv.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_libilbc.txt",
+    "sha256": "3082da3b4b80a1359a3a281da7849fdb8845b3e6cf308a5d47d0b743725b2481",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_libilbc.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_libogg.txt",
+    "sha256": "d2ab5758336489da61c12cc5bb757da5339c4ae9001f9bb0562b4370249af814",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_libogg.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_libsndfile.txt",
+    "sha256": "ad01ea5cd2755f6048383c8d54c88459cd6fcb17757c5c8892f8c5ea060f6140",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_libsndfile.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_libvorbis.txt",
+    "sha256": "ec1815db59fcd302846df949d7424876cb2e2dc5ed1606c5fb0b36787b1cf43a",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_libvorbis.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_opencore_amr.txt",
+    "sha256": "8b3f1762349248d444ab9acbafe73941254e36e1064954da56bb9ddbd5873ddb",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_opencore_amr.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_opus.txt",
+    "sha256": "8338ce8d922bb4416ce3dd1e5680173332435e3f0755007ac7801ccd674fe682",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_opus.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_shine.txt",
+    "sha256": "517c8bbea53e7257be86efaaba4c0b83effc386e4d84e0b6a33e025266ddb74e",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_shine.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_soxr.txt",
+    "sha256": "f2f118b9029ec1871b953639ecc46651b2fc7b62e295e6cf3ef2ac4c9a058b33",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_soxr.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_speex.txt",
+    "sha256": "2654a4264b2bfe298dedc508748d140111840c315cc8eb646a3a68c13fa75b01",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_speex.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_twolame.txt",
+    "sha256": "257a842724705950b07da76ce0e22ffa80ec77b3e9dfc6702522ac342409da0f",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_twolame.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/license_vo_amrwbenc.txt",
+    "sha256": "8b3f1762349248d444ab9acbafe73941254e36e1064954da56bb9ddbd5873ddb",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/license_vo_amrwbenc.txt"
+  },
+  {
+    "path": "licenses/ffmpegkit-audio-8.1.7/source.txt",
+    "sha256": "abf82e6ec062e51a4b590c5d7dad15907f96c48158f46cd99b2c28e7fef9541b",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7!/res/raw/source.txt"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libavcodec.so",
+    "sha256": "6019c34f15f424dd355622966d3bb7eeb4b5f1729f9805568e1db9a66de97f41"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libavdevice.so",
+    "sha256": "78004ae51be9cc570b967ae6ab611fa5501231012820a4802b2266dad5b081f3"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libavfilter.so",
+    "sha256": "1d6529e7b03aa42a58d8f0aae0c95dbe3a40fdf658c90e15f3096ea04d872bab"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libavformat.so",
+    "sha256": "e12f2a792ab9f28b82c95dab7d9bf347dacf254c6f4dc34df659ff73f5970827"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libavutil.so",
+    "sha256": "11e96c82b8609c48cb046d58213a7002972bcbdfd22c18ff091b5acaa5e8cefa"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libc++_shared.so",
+    "sha256": "f9992c4ba6b7c5a716e3a202fceb1ce029d6a2b0605838ac6b3219f489dd7970"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libffmpegkit.so",
+    "sha256": "e85b53c15ded84dda3c54ed3679af73693e51d91f517511f5906979c24bdcd12"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libffmpegkit_abidetect.so",
+    "sha256": "5ba693b0255eaa5789d4b54d18351b85240657f2fbab390f2614279b58e51a95"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libswresample.so",
+    "sha256": "8d62ed84e32c9e9deceb8c48e443c9de45ddb8fba2ee2326316499166aa2f1e7"
+  },
+  {
+    "artifact": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7",
+    "entry": "jni/arm64-v8a/libswscale.so",
+    "sha256": "359a75eb6336a5c7849e510e1ed508c8da9bc170abc0de5ceaffba2483ee040c"
+  },
+  {
+    "path": "third_party_sources/metadata/ffmpeg-binary-configuration.txt",
+    "sha256": "cf071e851af337e37ce0862482244d36605ce495b4e05b956a6675a26b89e6fe",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7 arm64 binary strings"
+  },
+  {
+    "path": "third_party_sources/metadata/ffmpeg-kit-audio-8.1.7.aar.sha256",
+    "sha256": "19916ee7480db9234fedda13caa67a8228e26b5654a167d242cd21a501fb030d",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7"
+  },
+  {
+    "path": "third_party_sources/metadata/ffmpeg-kit-audio-8.1.7.pom",
+    "sha256": "87b42a339191883ef3b8cef6dacf5ad6ccbcf6ee826566e3bc6214636bd5695d",
+    "origin": "dev.ffmpegkit-maintained:ffmpeg-kit-audio:8.1.7"
+  },
+  {
+    "path": "third_party_sources/smart-exception-java-0.2.1/com/arthenica/smartexception/java/JavaClassLoader.java",
+    "sha256": "d555173d7b79e799a1be1bf81a72f0ecb1498aa8fa779199a92f30dafdffdf79",
+    "origin": "com.arthenica:smart-exception-java:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-java-0.2.1/com/arthenica/smartexception/java/JavaStackTraceElementSerializer.java",
+    "sha256": "1738d834ee89a270b76c9ee935d4d9626fe7a7827530ad36db980dc7e5948156",
+    "origin": "com.arthenica:smart-exception-java:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-java-0.2.1/com/arthenica/smartexception/java/JavaPackageLoader.java",
+    "sha256": "9fc5e5f7683a8786c396336295ea69e41069ff621d6662194c42749ce43bb249",
+    "origin": "com.arthenica:smart-exception-java:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-java-0.2.1/com/arthenica/smartexception/java/Exceptions.java",
+    "sha256": "b07854a9c356ee55aabc94b783548ca51bf0ce4d8575af99bd8180e4c094b1df",
+    "origin": "com.arthenica:smart-exception-java:0.2.1:sources"
+  },
+  {
+    "path": "licenses/smart-exception-java-source-notices.txt",
+    "sha256": "8382a9e436b6f3c6f6ee82a5f7db928d394ad51c7bf36fd2fa20e191453b2945",
+    "origin": "com.arthenica:smart-exception-java:0.2.1:sources headers"
+  },
+  {
+    "path": "third_party_sources/metadata/smart-exception-java-0.2.1.pom",
+    "sha256": "63800012711974b994bfb01eaf4916bf45c6fc120b39c5fff43e62ed0b984a3e",
+    "origin": "com.arthenica:smart-exception-java:0.2.1"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/ThrowableWrapper.java",
+    "sha256": "1e32665ab40f317616d38b9f511992dced7297ceca65c3a07e22089e709b1491",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/StackTraceElementSerializer.java",
+    "sha256": "ff29b5ae6ae637fa4fe9d74606ed9912922f7647ac31b475ad68881d8e15bbb8",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/AbstractExceptions.java",
+    "sha256": "e859bde78294486c868ed50c2999893dcd5ce68d9e93fa1052a9b4e7d5d0911f",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/PackageLoader.java",
+    "sha256": "1780a5e187cfec04505f3745bafb77eb64d34895397f10d34bd83774b4f15b71",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/StackTraceElementWrapper.java",
+    "sha256": "bf907e19d09b96c6ef6b08270fc82398900e42f97b6d3dfa1b5093ee223f9b35",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "third_party_sources/smart-exception-common-0.2.1/com/arthenica/smartexception/ClassLoader.java",
+    "sha256": "c846d08a46c68e68d35762ac7f68d09c565179d84edd5ab2f21e70549dd3c3a1",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources"
+  },
+  {
+    "path": "licenses/smart-exception-common-source-notices.txt",
+    "sha256": "4258e1094cfadc2ddac6ea9f4c1d513d5af63ea85e18500363225d5977b2f288",
+    "origin": "com.arthenica:smart-exception-common:0.2.1:sources headers"
+  },
+  {
+    "path": "third_party_sources/metadata/smart-exception-common-0.2.1.pom",
+    "sha256": "359b88441a4c9d74059ed341cb0b141fecd256aa8f505fc0105b466bee441315",
+    "origin": "com.arthenica:smart-exception-common:0.2.1"
+  },
+  {
+    "path": "third_party_sources/native/ffmpegkit-v8.1.7.tar.gz",
+    "sha256": "31ba82762610ba516b1ffd595d3b859b77a57a5dfeda161b69bcc9cb9af6c491",
+    "origin": "https://codeload.github.com/ffmpegkit-maintained/ffmpeg/tar.gz/refs/tags/v8.1.7"
+  },
+  {
+    "path": "licenses/dependency-notices/androidx.core/core/1.15.0/LICENSE.txt",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "origin": "androidx.core:core:1.15.0!/META-INF/androidx/core/core/LICENSE.txt"
+  },
+  {
+    "path": "licenses/dependency-notices/androidx.core/core-ktx/1.15.0/LICENSE.txt",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "origin": "androidx.core:core-ktx:1.15.0!/META-INF/androidx/core/core-ktx/LICENSE.txt"
+  },
+  {
+    "path": "licenses/dependency-notices/androidx.documentfile/documentfile/1.1.0/LICENSE.txt",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "origin": "androidx.documentfile:documentfile:1.1.0!/META-INF/androidx/documentfile/documentfile/LICENSE.txt"
+  },
+  {
+    "path": "licenses/dependency-notices/com.google.guava/failureaccess/1.0.3/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "origin": "com.google.guava:failureaccess:1.0.3!/META-INF/LICENSE"
+  },
+  {
+    "path": "licenses/dependency-notices/com.google.guava/guava/32.0.1-jre/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "origin": "com.google.guava:guava:32.0.1-jre!/META-INF/LICENSE"
+  },
+  {
+    "path": "third_party_sources/native/config-v20210814.tar.gz",
+    "sha256": "e7b34eb510ebb76790b2c8e4bfec75393fc5ba121b90f9011a196591f8973228",
+    "origin": "https://codeload.github.com/arthenica/gnu-config/tar.gz/refs/tags/v20210814"
+  },
+  {
+    "path": "third_party_sources/native/cpu-features-v0.8.0.tar.gz",
+    "sha256": "7021729f2db97aa34f218d12727314f23e8b11eaa2d5a907e8426bcb41d7eaac",
+    "origin": "https://codeload.github.com/arthenica/cpu_features/tar.gz/refs/tags/v0.8.0"
+  },
+  {
+    "path": "third_party_sources/native/ffmpeg-n8.1.2.tar.gz",
+    "sha256": "9fd092511605bbebafe095ea6d38d9e40f34d12f7386e1258372df8be0576eb7",
+    "origin": "https://codeload.github.com/arthenica/FFmpeg/tar.gz/refs/tags/n8.1.2"
+  },
+  {
+    "path": "third_party_sources/native/lame-RELEASE__3_100.tar.gz",
+    "sha256": "d390e1754c4e5e702f7ee5a77e849a3c963758cfe5dacc1c64350c68196a29dd",
+    "origin": "https://codeload.github.com/arthenica/lame/tar.gz/refs/tags/RELEASE__3_100"
+  },
+  {
+    "path": "third_party_sources/native/libiconv-v1.17.tar.gz",
+    "sha256": "09d53d6b2b333bfafcce33261feca41d6d0bbc8524ca6606aef171cf2eb56f82",
+    "origin": "https://codeload.github.com/arthenica/libiconv/tar.gz/refs/tags/v1.17"
+  },
+  {
+    "path": "third_party_sources/native/libilbc-v3.0.4.tar.gz",
+    "sha256": "c5ec9e3ec53a0a913f81504e202c7bfefbe9c070b7f5599c5e13a6c75d6af913",
+    "origin": "https://codeload.github.com/arthenica/libilbc/tar.gz/refs/tags/v3.0.4"
+  },
+  {
+    "path": "third_party_sources/native/libogg-v1.3.5.tar.gz",
+    "sha256": "f6f1b04cfa4e98b70ffe775d5e302d9c6b98541f05159af6de2d6617817ed7d6",
+    "origin": "https://codeload.github.com/arthenica/ogg/tar.gz/refs/tags/v1.3.5"
+  },
+  {
+    "path": "third_party_sources/native/libsndfile-1.2.0.tar.gz",
+    "sha256": "62dc4e2bcd45f6f0e89cbc3522cc90eb174dca0eef0a0d19ead289833b390cd7",
+    "origin": "https://codeload.github.com/arthenica/libsndfile/tar.gz/refs/tags/1.2.0"
+  },
+  {
+    "path": "third_party_sources/native/libvorbis-v1.3.7.tar.gz",
+    "sha256": "270c76933d0934e42c5ee0a54a36280e2d87af1de3cc3e584806357e237afd13",
+    "origin": "https://codeload.github.com/arthenica/vorbis/tar.gz/refs/tags/v1.3.7"
+  },
+  {
+    "path": "third_party_sources/native/opencore-amr-v0.1.6.tar.gz",
+    "sha256": "1f2601c6cd9d47d3ddb2911db832bdc6f5e36c53f5e78937cdc5241ae02cb426",
+    "origin": "https://codeload.github.com/arthenica/opencore-amr/tar.gz/refs/tags/v0.1.6"
+  },
+  {
+    "path": "third_party_sources/native/opus-v1.4.tar.gz",
+    "sha256": "659e6b223e42a51b0a898632b9a5f406ccd5c2e00aa526ddd1264789774b94e5",
+    "origin": "https://codeload.github.com/arthenica/opus/tar.gz/refs/tags/v1.4"
+  },
+  {
+    "path": "third_party_sources/native/shine-3.1.1.tar.gz",
+    "sha256": "565b87867d6f8e6616a236445d194e36f4daa9b4e7af823fcf5010af7610c49e",
+    "origin": "https://codeload.github.com/arthenica/shine/tar.gz/refs/tags/3.1.1"
+  },
+  {
+    "path": "third_party_sources/native/soxr-0.1.3.tar.gz",
+    "sha256": "db6ca1b1e8405c6ef92f8294fc123d910abf0a114003b3f0f13fa57a95fd62d0",
+    "origin": "https://codeload.github.com/arthenica/soxr/tar.gz/refs/tags/0.1.3"
+  },
+  {
+    "path": "third_party_sources/native/speex-Speex-1.2.1.tar.gz",
+    "sha256": "beaf2642e81a822eaade4d9ebf92e1678f301abfc74a29159c4e721ee70fdce0",
+    "origin": "https://codeload.github.com/arthenica/speex/tar.gz/refs/tags/Speex-1.2.1"
+  },
+  {
+    "path": "third_party_sources/native/twolame-0.4.0.tar.gz",
+    "sha256": "9f3f03bc9e1038d900f86002c7dce4b49109b3a61544800fc62d71dc51829f05",
+    "origin": "https://codeload.github.com/arthenica/twolame/tar.gz/refs/tags/0.4.0"
+  },
+  {
+    "path": "third_party_sources/native/vo-amrwbenc-v0.1.3.tar.gz",
+    "sha256": "85c79997ba7ddb9c95b5ddbe9ea032e27595390f3cbd686ed46a69e485cc053c",
+    "origin": "https://codeload.github.com/arthenica/vo-amrwbenc/tar.gz/refs/tags/v0.1.3"
+  },
+  {
+    "path": "third_party_sources/native/abseil-1bae23e32ba1f1af7c7d1488a69a351ec96dc98d.tar.gz",
+    "sha256": "6bb5efd152cbd3ac6d02eaa7a40ca5ff7a7fa4ef3b9e034381ac782c2a67b3da",
+    "origin": "https://codeload.github.com/abseil/abseil-cpp/tar.gz/1bae23e32ba1f1af7c7d1488a69a351ec96dc98d"
+  },
+  {
+    "path": "third_party_sources/native/gnulib-485d983b7795548fb32b12fbe8370d40789e88c4.tar.gz",
+    "sha256": "161290586d00a752fed2d8be64713b1b3ecfe8427f9b0e6f1d68b8fd9eee9e1f",
+    "origin": "https://codeload.github.com/arthenica/gnulib/tar.gz/485d983b7795548fb32b12fbe8370d40789e88c4"
+  },
+  {
+    "path": "licenses/Apache-2.0.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "origin": "https://github.com/JetBrains/kotlin/tree/v2.0.21/license"
+  },
+  {
+    "path": "licenses/Kotlin-NOTICE.txt",
+    "sha256": "0b09a83d3ef7795c7dec65e815866597c066c53898f2852a76599b8f5552941a",
+    "origin": "https://github.com/JetBrains/kotlin/tree/v2.0.21/license"
+  },
+  {
+    "path": "licenses/Android-NDK-r26d-NOTICE.txt",
+    "sha256": "8ef75b1329afc86cc26b44fd38a4ece8c78266581a32c5e57d6e7b11721183e1",
+    "origin": "Android NDK 26.3.11579264 official installed distribution"
+  },
+  {
+    "path": "licenses/Android-NDK-r26d-TOOLCHAIN-NOTICE.txt",
+    "sha256": "d503f647f76ba8dc538eeeb5b3851f61d46a7d1f7651fe580dab8f2fbeecbfe5",
+    "origin": "Android NDK 26.3.11579264 official installed distribution"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.activity/activity/1.8.0/activity-1.8.0-sources.jar",
+    "sha256": "0426ba5bf1a8d3fe94610ece12e1af150b6a1a565d87539ffa50e614a50547e6",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.8.0/activity-1.8.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1-sources.jar",
+    "sha256": "783a221a7c1093ff8932053998a69a24489f7930806a32b55366108146d29c1d",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.annotation/annotation-jvm/1.8.1/annotation-jvm-1.8.1-sources.jar",
+    "sha256": "5add69d7bb907ade52823bf4b15730a1a32cfce6657bfbe7eb865b00107a6369",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-jvm/1.8.1/annotation-jvm-1.8.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.appcompat/appcompat/1.7.0/appcompat-1.7.0-sources.jar",
+    "sha256": "6e3d3af46fbd9cb51ce6feb791274a9c2da11b64ba7b967a5dd12915e0aa031a",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat/1.7.0/appcompat-1.7.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.appcompat/appcompat-resources/1.7.0/appcompat-resources-1.7.0-sources.jar",
+    "sha256": "cacf441fbbec0ebf12b4308bbeeb9a7389387c35a66f13bd2551dc328cf33ead",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat-resources/1.7.0/appcompat-resources-1.7.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.arch.core/core-common/2.2.0/core-common-2.2.0-sources.jar",
+    "sha256": "563d430880d847890029234386ef03adb95403c34f3c9dec3a7002e2f4007ae4",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-common/2.2.0/core-common-2.2.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.arch.core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar",
+    "sha256": "4adaab3a8ab711634d566d2e239e199af8b5ac92c1de85540dc34c7040754e96",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.cardview/cardview/1.0.0/cardview-1.0.0-sources.jar",
+    "sha256": "ad7a28e7768893f8b33a8b7b275a92e33c125243ca4a9130a984c40e578e19b4",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/cardview/cardview/1.0.0/cardview-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.collection/collection-jvm/1.4.2/collection-jvm-1.4.2-sources.jar",
+    "sha256": "9cdb219ee75724515c232ae2bb04403c1fd1b40208c61d92aaa6452836d943c5",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/collection/collection-jvm/1.4.2/collection-jvm-1.4.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0-sources.jar",
+    "sha256": "cc06fb6045a6c066f50e237a3c2126bc88c16d358a57b3612ba633c9f530b0a0",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/constraintlayout-2.0.1.tar.gz",
+    "sha256": "908de56e33dac66f4f194605935816f89517640de4ac7907d79911ab4bda427e",
+    "origin": "https://codeload.github.com/androidx/constraintlayout/tar.gz/refs/tags/2.0.1"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.coordinatorlayout/coordinatorlayout/1.1.0/coordinatorlayout-1.1.0-sources.jar",
+    "sha256": "c8904cffcfb757cf14d8c0cf7563274edc3a8bc883ca9203b4b98e9823f7b22b",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/coordinatorlayout/coordinatorlayout/1.1.0/coordinatorlayout-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.core/core/1.15.0/core-1.15.0-sources.jar",
+    "sha256": "f56a83aa404e6bba2065b7bacfb18b38f070c8861068fed656dd04570644a0e3",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/core/core/1.15.0/core-1.15.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.core/core-ktx/1.15.0/core-ktx-1.15.0-sources.jar",
+    "sha256": "5bedb726f4388be868bb5e35d5f726e1c5745d3ea285fd5138288571182860c1",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.15.0/core-ktx-1.15.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0-sources.jar",
+    "sha256": "99b72a3aec8c9edfd9de20f5913ce4c413bca2f0cf9877b504e26aa03ef50323",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.customview/customview/1.1.0/customview-1.1.0-sources.jar",
+    "sha256": "0f119c77c7613881901cbcd149e718409480c08c39661737750a35f5d6b5dfd2",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/customview/customview/1.1.0/customview-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.documentfile/documentfile/1.0.1/documentfile-1.0.1-sources.jar",
+    "sha256": "d5ae9d7e747f23370dda8ad6891986c4ba67c31225078e6a6a820e566bd4e632",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/documentfile/documentfile/1.0.1/documentfile-1.0.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.drawerlayout/drawerlayout/1.1.1/drawerlayout-1.1.1-sources.jar",
+    "sha256": "bec7ce941920860747b3368b0a6d58c14b91c164dfbddd1de866e7cfab4f27fd",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/drawerlayout/drawerlayout/1.1.1/drawerlayout-1.1.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar",
+    "sha256": "7ddbf0b830e295b8013a41c2c6771416118bcc8d61328a881daae657c1429196",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.emoji2/emoji2/1.3.0/emoji2-1.3.0-sources.jar",
+    "sha256": "cd9b28e11cc5b9dacb5187ce2db89f97650a4c71c6ccf0aaa41a68cf8863c409",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2/1.3.0/emoji2-1.3.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.emoji2/emoji2-views-helper/1.3.0/emoji2-views-helper-1.3.0-sources.jar",
+    "sha256": "ae8f9eac6a0627a136f631af717e6fab86a69e45c83765661e3795f7bbef3562",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2-views-helper/1.3.0/emoji2-views-helper-1.3.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.fragment/fragment/1.5.4/fragment-1.5.4-sources.jar",
+    "sha256": "388140b5e899ea70dceb7de93ebe732b7d534a14ca87014895faf19ef74ac8fe",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/fragment/fragment/1.5.4/fragment-1.5.4-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar",
+    "sha256": "fa13ada71fe7bd9461f622f418e7c16a18e85da7708fb505c75229a9b8830345",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.legacy/legacy-support-core-utils/1.0.0/legacy-support-core-utils-1.0.0-sources.jar",
+    "sha256": "dff5a95a7a706957b16edbf5b36c619fc869742bdf18845520d0cf71748c8070",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/legacy/legacy-support-core-utils/1.0.0/legacy-support-core-utils-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-common/2.6.2/lifecycle-common-2.6.2-sources.jar",
+    "sha256": "9b194a75aa6724bdac277be839eddd5d49192d64389d5ac02d1f6bb6c334124e",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.6.2/lifecycle-common-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-livedata/2.6.2/lifecycle-livedata-2.6.2-sources.jar",
+    "sha256": "5e55ddad2a4a2cf7c33650059f11274a579db92dd88a04800912d70576227f61",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata/2.6.2/lifecycle-livedata-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-livedata-core/2.6.2/lifecycle-livedata-core-2.6.2-sources.jar",
+    "sha256": "cacbe1dc9c099df7fd37069266986eeb8c4447c3e08c4a31762c7466a0082568",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata-core/2.6.2/lifecycle-livedata-core-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-process/2.6.2/lifecycle-process-2.6.2-sources.jar",
+    "sha256": "f6f6c2465bf5219798d64ed255a1768cf26547d56755c0cceb32e752a231f689",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.6.2/lifecycle-process-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-runtime/2.6.2/lifecycle-runtime-2.6.2-sources.jar",
+    "sha256": "07129c61c68a7c4333aeabe1712827c33677f973db29bc11b99044463899b13d",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime/2.6.2/lifecycle-runtime-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-viewmodel/2.6.2/lifecycle-viewmodel-2.6.2-sources.jar",
+    "sha256": "4eed85c3e86326da8b6949fd3964d2380aa5c56730de402e3c6f1c6d747596e0",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel/2.6.2/lifecycle-viewmodel-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.6.2/lifecycle-viewmodel-savedstate-2.6.2-sources.jar",
+    "sha256": "4bedc7c786cde5b49adff6d8bcd2357c09b897f20dd6e4f1b79e5af55f32db9e",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.6.2/lifecycle-viewmodel-savedstate-2.6.2-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.loader/loader/1.0.0/loader-1.0.0-sources.jar",
+    "sha256": "efcbafaac8fc06bd5b162b57ac1e146d11919b79dea2202339470c931cecdc67",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/loader/loader/1.0.0/loader-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar",
+    "sha256": "952b8567a76d6484aa96f9712b9dc90f21b83a73e2496daf243e2e1adfb65dd4",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.print/print/1.0.0/print-1.0.0-sources.jar",
+    "sha256": "659b6e2047484dbae409b9b49c19f9ebd9540bb7ef3610438e2c2b15064fc217",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/print/print/1.0.0/print-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.profileinstaller/profileinstaller/1.3.1/profileinstaller-1.3.1-sources.jar",
+    "sha256": "0ff5f58d8df11e5f8254013b04386789bdb1367288e9eb74433198261fb14d95",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.3.1/profileinstaller-1.3.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.recyclerview/recyclerview/1.1.0/recyclerview-1.1.0-sources.jar",
+    "sha256": "7552c8b621d59b68d2dc962d3bbeee8ccaea5b54cf0085adc85059d37584d93c",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/recyclerview/recyclerview/1.1.0/recyclerview-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.resourceinspection/resourceinspection-annotation/1.0.1/resourceinspection-annotation-1.0.1-sources.jar",
+    "sha256": "cdca7861ae17115f8d74f9f197d1a4f8b0217ca035a3990da2e2c1ca1fa7f822",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/resourceinspection/resourceinspection-annotation/1.0.1/resourceinspection-annotation-1.0.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.savedstate/savedstate/1.2.1/savedstate-1.2.1-sources.jar",
+    "sha256": "fd201fb9ea2d3e66262cb09bf1e33cbbe41050fcfcb96c9ce197f1780b614a73",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.2.1/savedstate-1.2.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.startup/startup-runtime/1.1.1/startup-runtime-1.1.1-sources.jar",
+    "sha256": "53e03bc065b26b2227b5fdca6776cbfa0d1a69afb8f3c1e96c1743fa54320196",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/startup/startup-runtime/1.1.1/startup-runtime-1.1.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.tracing/tracing/1.2.0/tracing-1.2.0-sources.jar",
+    "sha256": "3daf3a210e213f1675e6ea9ae2a9c0b9c837b42805835b65d999eca58fbddc90",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/tracing/tracing/1.2.0/tracing-1.2.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.transition/transition/1.5.0/transition-1.5.0-sources.jar",
+    "sha256": "90e0173d6b572f889b4e18718e6391a19b7911178aa9971a6ee0704d013daa1a",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/transition/transition/1.5.0/transition-1.5.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0-sources.jar",
+    "sha256": "a1ae4fccc4ab76a734c10f79adf39262517658a79084bad467c4c6f41c478187",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.vectordrawable/vectordrawable-animated/1.1.0/vectordrawable-animated-1.1.0-sources.jar",
+    "sha256": "a3880c595965c55fd1bdee0554b99c66e9c28d3311b7ce6242189fc1f554fcf1",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable-animated/1.1.0/vectordrawable-animated-1.1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1-sources.jar",
+    "sha256": "135016af471acf4cd9583d36ceb779710c6b46812ccaaef7c526d5d60eae6b0b",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.viewpager2/viewpager2/1.0.0/viewpager2-1.0.0-sources.jar",
+    "sha256": "b091618751f3ee04176d8f976077c353d7c902c4aeafc134d18aee3b771f19a1",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/viewpager2/viewpager2/1.0.0/viewpager2-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/androidx.viewpager/viewpager/1.0.0/viewpager-1.0.0-sources.jar",
+    "sha256": "d4f9a044ab8c23392b12a3f2930d5fd6b5982421a746f2f2a812e9619431fbfd",
+    "origin": "https://dl.google.com/dl/android/maven2/androidx/viewpager/viewpager/1.0.0/viewpager-1.0.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/com.arthenica/smart-exception-common/0.2.1/smart-exception-common-0.2.1-sources.jar",
+    "sha256": "dd1541b83d88a284fedf2db38d81b27ad43340a8c890b7414d63c81ec6a7e5b8",
+    "origin": "https://repo.maven.apache.org/maven2/com/arthenica/smart-exception-common/0.2.1/smart-exception-common-0.2.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/com.arthenica/smart-exception-java/0.2.1/smart-exception-java-0.2.1-sources.jar",
+    "sha256": "8275af16bcb006e3547edb18f1eda54875a4d749409290d9d0e97fed013e3be9",
+    "origin": "https://repo.maven.apache.org/maven2/com/arthenica/smart-exception-java/0.2.1/smart-exception-java-0.2.1-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/com.google.android.material/material/1.12.0/material-1.12.0-sources.jar",
+    "sha256": "1b9845a2c16ef4c683bee1cf834ff35b21b9a8d5eb849808fa6bc2f0f88b31f4",
+    "origin": "https://repo.maven.apache.org/maven2/com/google/android/material/material/1.12.0/material-1.12.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/com.google.errorprone/error_prone_annotations/2.15.0/error_prone_annotations-2.15.0-sources.jar",
+    "sha256": "c1b58a188fb4eca9ccefbaff21209eb07df87751384e694b908a3df0288bef97",
+    "origin": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.15.0/error_prone_annotations-2.15.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/com.google.guava/listenablefuture/1.0/listenablefuture-1.0-sources.jar",
+    "sha256": "3d1bd8d4a39b293612a40e547ec51d9ce34fa638d7adeae83871cdbe2923b161",
+    "origin": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/dev.ffmpegkit-maintained/ffmpeg-kit-audio/8.1.7/ffmpeg-kit-audio-8.1.7-sources.jar",
+    "sha256": "f88e03cfc00c25be9582cccb71115b86d56fb20dc46a66f36e9a6eb043634869",
+    "origin": "https://repo.maven.apache.org/maven2/dev/ffmpegkit-maintained/ffmpeg-kit-audio/8.1.7/ffmpeg-kit-audio-8.1.7-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains.kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21-sources.jar",
+    "sha256": "5995c780c3ac742fb277ced561ebd7b0739227ea7c93a6bd9c7cee6593493fce",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22-sources.jar",
+    "sha256": "ea10d3e5e6e695d8a5283cbf116321acae6ba42d0bdd3eda50f7c34a26fa25cb",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22-sources.jar",
+    "sha256": "40e9a80f6b953d12389623760d438e69914098d0c4d7053f70f90533ec041259",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.4/kotlinx-coroutines-android-1.6.4-sources.jar",
+    "sha256": "cc2c16ed89092c1ccb41db572d9da8e3b2f730fce4ba66687d47f6dc5ed7ec99",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.6.4/kotlinx-coroutines-android-1.6.4-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.4/kotlinx-coroutines-core-jvm-1.6.4-sources.jar",
+    "sha256": "aa1335ddb56712a4acca7bb0a2dc0870818b508b6054feb3be253075b6a9ed03",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.4/kotlinx-coroutines-core-jvm-1.6.4-sources.jar"
+  },
+  {
+    "path": "third_party_sources/runtime/org.jetbrains/annotations/13.0/annotations-13.0-sources.jar",
+    "sha256": "42a5e144b8e81d50d6913d1007b695e62e614705268d8cf9f13dbdc478c2c68e",
+    "origin": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar"
+  }
+]
