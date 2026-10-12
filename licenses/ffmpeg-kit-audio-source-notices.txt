@@ -1,0 +1,325 @@
+/*
+ * Copyright (c) 2018-2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2018-2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2018-2022 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2018-2022 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2019-2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2020-2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2020-2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2020-2022 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2021 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Copyright (c) 2021-2022 Taner Sener
+ *
+ * This file is part of FFmpegKit.
+ *
+ * FFmpegKit is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * FFmpegKit is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public License
+ *  along with FFmpegKit.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * DeepLTranslationProvider — ready-to-use TranslationProvider backed by the DeepL REST API.
+ *
+ * Works with both the DeepL Free tier (api-free.deepl.com) and the paid tier
+ * (api.deepl.com). Requires only your DeepL Authentication Key — no extra
+ * dependencies: uses Android's built-in HttpsURLConnection and org.json.
+ *
+ * Usage:
+ *
+ *   TranslationProvider deepl = new DeepLTranslationProvider("YOUR_DEEPL_API_KEY");
+ *   // or, for the paid DeepL API:
+ *   TranslationProvider deepl = new DeepLTranslationProvider("YOUR_DEEPL_API_KEY", false);
+ *
+ *   String frenchText = whisperKit.transcribeAndTranslate(pcm, deepl, "FR");
+ *   String frenchSrt  = whisperKit.transcribeToSrtAndTranslate(pcm, deepl, "FR");
+ *
+ * Target language codes follow DeepL's convention (uppercase BCP-47 codes):
+ *   "FR" = French, "ES" = Spanish, "DE" = German, "JA" = Japanese, "ZH" = Chinese, etc.
+ * See https://developers.deepl.com/docs/resources/supported-languages for the full list.
+ *
+ * Free API key format ends in ":fx" — get one at https://www.deepl.com/pro-api
+ */
+
+/*
+ * GoogleTranslateProvider — ready-to-use TranslationProvider backed by the
+ * Google Cloud Translation API v2 (Basic edition, also called "Cloud Translation API").
+ *
+ * Requires a Google Cloud API key with the Cloud Translation API enabled.
+ * Pricing: https://cloud.google.com/translate/pricing
+ * (first 500 000 characters/month are free under the Basic edition)
+ *
+ * Usage:
+ *
+ *   TranslationProvider google = new GoogleTranslateProvider("YOUR_GOOGLE_API_KEY");
+ *
+ *   String frenchSrt = whisperKit.transcribeToSrtAndTranslate(pcm, google, "fr");
+ *
+ * Target language codes are standard BCP-47 lowercase ISO 639-1 codes:
+ *   "fr" = French, "es" = Spanish, "de" = German, "ja" = Japanese,
+ *   "zh-CN" = Chinese (Simplified), "ar" = Arabic, etc.
+ * See https://cloud.google.com/translate/docs/languages for the full list.
+ *
+ * How to get an API key:
+ *   1. Go to https://console.cloud.google.com
+ *   2. Enable "Cloud Translation API" for your project
+ *   3. Create an API key under APIs & Services → Credentials
+ *   4. Restrict the key to the Cloud Translation API for production use
+ */
+
+/*
+ * LibreTranslateProvider — ready-to-use TranslationProvider backed by any
+ * LibreTranslate-compatible REST API (self-hosted or a public instance).
+ *
+ * LibreTranslate is open-source and free to self-host:
+ *   https://github.com/LibreTranslate/LibreTranslate
+ *
+ * Several public instances exist (some free, some require an API key).
+ * By default this class targets https://libretranslate.com.
+ *
+ * Usage — public instance (no key):
+ *
+ *   TranslationProvider lt = new LibreTranslateProvider();
+ *   String frenchSrt = whisperKit.transcribeToSrtAndTranslate(pcm, lt, "fr");
+ *
+ * Usage — custom server with an API key:
+ *
+ *   TranslationProvider lt = new LibreTranslateProvider(
+ *       "https://your-server.example.com", "YOUR_API_KEY");
+ *
+ * Target language codes are standard BCP-47 lowercase ISO 639-1 codes:
+ *   "fr" = French, "es" = Spanish, "de" = German, "ja" = Japanese, etc.
+ * See https://libretranslate.com/languages for the supported list on the
+ * default public instance.
+ */
+
+/*
+ * TranslationProvider — pluggable external translation backend for WhisperKit.
+ *
+ * Implement this interface to connect any translation API (DeepL, LibreTranslate,
+ * Google Cloud Translation, etc.) to WhisperKit's transcribeAndTranslate / SRT
+ * pipeline.
+ *
+ * Example — DeepL free API:
+ *
+ *   TranslationProvider deepl = (text, targetLang) -> {
+ *       // POST to https://api-free.deepl.com/v2/translate
+ *       // Return the translated string
+ *   };
+ *
+ *   String srt = whisperKit.transcribeToSrtAndTranslate(pcm, deepl, "fr");
+ */
+
+/*
+ * WhisperKit — on-device speech recognition for FFmpegKit 8.1 LTS.
+ *
+ * Available only in the Pro and Pro GPL tiers.  Wraps Whisper.cpp v1.7.5
+ * via a JNI bridge (whisperkitjni.c / libwhisperkit.so).
+ *
+ * Usage:
+ *
+ *   // Load a GGML model file (e.g. ggml-base.bin downloaded from HuggingFace)
+ *   WhisperKit wk = WhisperKit.createFromFile("/data/local/tmp/ggml-base.bin");
+ *
+ *   // Supply 16 kHz mono PCM float samples (e.g. decoded via FFmpegKit)
+ *   float[] pcm = ...;
+ *
+ *   String text = wk.transcribe(pcm);           // plain text
+ *   String srt  = wk.transcribeToSrt(pcm);      // SRT subtitles
+ *   String eng  = wk.translate(pcm);            // auto-translate to English
+ *   String esrt = wk.translateToSrt(pcm);       // translated SRT
+ *
+ *   wk.close(); // release native memory
+ *
+ * Thread safety: a single WhisperKit instance is NOT thread-safe.
+ * Create one instance per concurrent transcription job.
+ */
