@@ -2,12 +2,18 @@ package com.fabula.audio
 
 import android.app.AlertDialog
 import android.content.Context
+import android.content.Intent
+import android.content.ActivityNotFoundException
+import android.net.Uri
+import android.widget.Toast
 import android.graphics.Color
 import android.text.method.ScrollingMovementMethod
 import android.widget.ScrollView
 import android.widget.TextView
 
 object AboutDialog {
+    private const val SOURCE_URL = "https://github.com/Fabula-Audio/FabulaAudio"
+
     private const val ABOUT_TEXT = """Fabula Audio — приложение для обработки аудиозаписей по методике проекта "Ключ к Единству.".
 
 Авторские права:
@@ -15,6 +21,9 @@ object AboutDialog {
 Оригинальный код приложения: GNU GPL version 3 only (GPL-3.0-only).
 Программа предоставляется без гарантий. Вы можете изменять и
 распространять её в соответствии с GPLv3.
+
+Версия: 4.34
+Исходный код: https://github.com/Fabula-Audio/FabulaAudio
 
 Используемые библиотеки:
 
@@ -64,6 +73,13 @@ object AboutDialog {
         val dialog = AlertDialog.Builder(context)
             .setTitle("О приложении и лицензиях")
             .setView(scroll)
+            .setNegativeButton("Исходный код") { _, _ ->
+                try {
+                    context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(SOURCE_URL)))
+                } catch (_: ActivityNotFoundException) {
+                    Toast.makeText(context, "Откройте $SOURCE_URL в браузере", Toast.LENGTH_LONG).show()
+                }
+            }
             .setNeutralButton("Лицензии") { _, _ -> showLicenseList(context) }
             .setPositiveButton("Закрыть", null)
             .create()
